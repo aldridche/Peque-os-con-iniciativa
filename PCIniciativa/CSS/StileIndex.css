@@ -10,7 +10,7 @@ nav{
     margin: auto;
 }
 .enviar-derecha{
-    margin-left: auto;
+    margin-left: 25%;
     padding-right: 10px;
 }
 .acomodar-derecha{
@@ -65,4 +65,7 @@ nav{
 #tamLet{
     font-size: 20px;
     margin-bottom: 0px;
+}
+#TSlide{
+    height: 600px;
 }
