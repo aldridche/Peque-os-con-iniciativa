@@ -1,0 +1,68 @@
+/************** Barra de navegacion **************/
+#navegador{
+    background-color: #45d9fd;
+    color:  #08182b;
+    padding-top: 0.025%;
+    padding-bottom: 0.025%;
+}
+nav{
+    max-width: 85%/*1100px*/;
+    margin: auto;
+}
+.enviar-derecha{
+    margin-left: auto;
+    padding-right: 10px;
+}
+.acomodar-derecha{
+    margin-left: auto;
+    padding-right: 10px;
+}
+#tamIcon {
+    width: 60px;
+    margin-left: 5%;
+}
+#tamNom {
+    width: 400px;
+    margin-left: 1%;
+}
+.enMarg{
+    font-size: 25px;
+    color:  #08182b;
+    margin-left: 30px;
+    text-align: center;
+}
+
+
+/************** Contenedor **************/
+#contenedor{
+    background: #f4f4f4;
+    max-width: 85%;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    display: flex;
+    height: 100%;
+}
+#contenedorInterno{
+    /* border: solid #08182b 2px; */
+    width: 72%;
+    flex-grow: 1px;
+    padding: 10px;
+}
+#contenedor aside{
+    width: 28%;
+    background: #ee2560;
+    padding: 10px;
+}
+.categoria{
+    display: flex;
+    font-weight: 700;
+    background: #08182b;
+    color: #f4f4f4;
+    padding: 10px;
+    border-bottom: solid 1.5 #45d9fd;
+}
+#tamLet{
+    font-size: 20px;
+    margin-bottom: 0px;
+}
