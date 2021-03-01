@@ -1,7 +1,7 @@
 /************** Barra de navegacion **************/
 #navegador{
-    background-color: #45d9fd;
-    color:  #08182b;
+    background-color: #218380;
+    color:  #FFBC42;
     padding-top: 0.025%;
     padding-bottom: 0.025%;
 }
@@ -18,7 +18,8 @@ nav{
     padding-right: 10px;
 }
 #tamIcon {
-    width: 60px;
+    width: 100px;
+    height: 70px;
     margin-left: 5%;
 }
 #tamNom {
@@ -27,7 +28,7 @@ nav{
 }
 .enMarg{
     font-size: 25px;
-    color:  #08182b;
+    color:  #FFBC42;
     margin-left: 30px;
     text-align: center;
 }
@@ -68,4 +69,23 @@ nav{
 }
 #TSlide{
     height: 600px;
+}
+/******************** footer ********************/
+#piePagina{
+    background-color: #FFBC42;
+    color:  #D81159;
+    /* padding-top: 0.025%;
+    padding-bottom: 0.025%; */
+}
+#divFooter{
+    /* border: solid #D81159 2px; */
+    padding: 10px;
+    text-align: left;
+    color:  #D81159;
+}
+#icono{
+    text-align: right;
+}
+#footerTel{
+
 }
