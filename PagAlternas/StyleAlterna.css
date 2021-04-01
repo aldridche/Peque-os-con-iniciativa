@@ -70,28 +70,6 @@ nav{
 #TSlide{
     height: 600px;
 }
-/******************** contenedor 2 ********************/
-#contenedor2{
-    background: #f4f4f4;
-    max-width: 85%;
-    margin: auto;
-    margin-top: 25px;
-    margin-bottom: 25px;
-    display: flex;
-    height: 100%;
-    padding: 25px;
-}
-#contenedorInterno2{
-    /* border: solid #08182b 2px; */
-    width: 50%;
-    flex-grow: 1px;
-    padding: 10px;
-}
-#contenedor2 aside{
-    width: 50%;
-    background: #f4f4f4;
-    padding: 10px;
-}
 
 /******************** aside ********************/
 .articuloRelacion{
@@ -111,9 +89,6 @@ nav{
     color: white;
     text-align: center; 
     margin-top: 8px;
-}
-.card-text{
-    text-align: justify;
 }
 /******************** footer ********************/
 #piePagina{
